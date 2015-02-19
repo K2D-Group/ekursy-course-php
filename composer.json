@@ -9,6 +9,7 @@
     }
   ],
   "require": {
-    "mpdf/mpdf": "v6.0-beta"
+    "mpdf/mpdf": "v6.0-beta",
+    "erusev/parsedown": "~1.5"
   }
 }
