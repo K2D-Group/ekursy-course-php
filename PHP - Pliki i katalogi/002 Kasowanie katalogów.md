@@ -1,12 +1,9 @@
 # 2. Kasowanie katalogów
 
-Do tworzenia katalogów używa się `rmdir(/* Nazwa katalogu */)`, w nawiasie przyjmowana jest nazwa katalogu
-
-
+Do usuwania katalogów używana jest funkcja `rmdir()`, funkcja w nawiasie przyjmuje nazwe katalogu.
 ##Przykład:
-Usuwa wybrany katalog.
+Po wykonaniu programu, katalog zostanie usunięty.
 
-	$katalog = "katalog";
+		$katalog = "katalog";
 
-	rmdir($katalog);
-
+		rmdir($katalog);
