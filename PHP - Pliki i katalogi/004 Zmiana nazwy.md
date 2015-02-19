@@ -1,7 +1,7 @@
 # 4. Zmiana nazwy
 
 Do zmiany nazwy lub przenoszenia katalogów i plików służy funkcja `rename(STARA_ŚCIEŻKA, NOWA_ŚCIERZKA)`.
-Funkcja zwraca prawdę (`true`) jeśli się powiedzie lub fałsz w przypadku błędu (`false`).
+Funkcja zwraca prawdę (`true`) jeśli się powiedzie lub fałsz (`false`) w przypadku błędu.
 
 
 ## Przykład 1.
