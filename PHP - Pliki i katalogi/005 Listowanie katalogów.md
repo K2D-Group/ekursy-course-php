@@ -8,9 +8,46 @@ Listowanie katalogów można dokonać na 2 sposoby:
 
 ## `opendir()`
 
+- `opendir(SCIEŻKA_DO_KATALOGU)` - Przyjmuje scieżkę względną (`../../katalog`) lub 
+   bezwzględną (`/home/adm05/katalog`) do katalogu który chcesz listować.
+   Funkcja zwraca *uchwyt* do katalogu.
+-  `readdir(UCHWYT)` - Przyjmuje uchwyt zwrócony przez funkcję `opendir()` i zwraca następny plik w listowanym katalogu 
+   lub zwraca `false` jeżeli zostały już zwrócone wszystkie pliki.
+-  `closedir(UCHWYT)` - Zamyka katalog otwarty przez funkcję `opendir()`.
 
+**Uwaga: funkcja `readdir()` zwraca również aktualny katalog (`.`) jak i katalog nadrzędny (`..`)**
 
+### Przykład 1
+Poniższy kod wyświetli dwa pierwsze pliki oraz aktualny katalog (`.`) i katalog nadrzędny (`..`)
 
+        $uchwyt = opendir('katalog/');
+        echo 'Pierwszy plik: '.readdir($uchwyt);
+        echo 'Drugi plik: '.readdir($uchwyt);
+        echo 'Trzeci plik: '.readdir($uchwyt);
+        echo 'Czwarty plik: '.readdir($uchwyt);
+        closedir($uchwyt);
+
+### Przykład 2
+Poniższy kod wyświetli wszystkie pliki i katalogi znajdujące się w aktualnym katalogu 
+(folder w którym znajduje się wykonywany skrypt)
+
+        $uchwyt = opendir('');
+        while (false !== ($nazwa_pliku = readdir($uchwyt))) {
+            echo $nazwa_pliku;
+        }
+        closedir($uchwyt);
+        
+### Przykład 3
+Poniższy kod to kod z przykładu 2 uzupełniona o kontrolę błędów
+
+        if($uchwyt = opendir('.')) {
+            while (false !== ($nazwa_pliku = readdir($uchwyt))) {
+                echo $nazwa_pliku;
+            }
+            closedir($uchwyt);
+        }else{
+            echo 'Nie można otworzyć katalogu!';
+        }
 
 
 ## `glob()`
