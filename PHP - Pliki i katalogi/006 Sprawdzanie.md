@@ -1,4 +1,4 @@
-#Sprawdzanie czy dany plik istnieje
+# 6. Sprawdzanie czy dany plik istnieje
 
 Sprawdza czy plik istnieje, funkcja zwraca prawdę (`true`) lub fałsz (`false`).
 Funkcja: `file_exists(/* Nazwa */)`

@@ -17,23 +17,23 @@ $HTML = '<html>
     </head>
     <body>';
 $HTML .= get('001 Tworzenie katalogów');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('002 Kasowanie katalogów');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('003 Czy to katalog');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('004 Zmiana nazwy');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('005 Listowanie katalogów');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('006 Sprawdzanie');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('007 Odczyt i zapis plików - file');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 //$HTML .= get('008 Odczyt i zapis plików - f');
 //$HTML .= '</hr>';
 $HTML .= get('009 Zwracanie śceżki dostępu');
-$HTML .= '</hr>';
+$HTML .= '<hr>';
 $HTML .= get('010 Ilość wolnego miejsca');
 $HTML .= '</body></html>';
 
