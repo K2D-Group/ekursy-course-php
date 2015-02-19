@@ -11,4 +11,4 @@ Zmienia nazwę pliku `staryplik.txt` znajdującego się w miejscu gdzie znajduje
 
 ## Przykład 2.
 Zmienia nazwę pliku `staryplik.txt` znajdującego się w miejscu gdzie znajduje się uruchamiany plik skrypt na `nowyplik.txt`.
-		rename('/home/adm05/Dokumenty', '/home/adm05/public_html/Dokumenty');
+		rename('staryplik.txt', 'nowyplik.txt');
