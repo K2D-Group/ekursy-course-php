@@ -6,8 +6,7 @@
 4. Zmiana nazwy
 5. listowanie katalogów 
 6. Sprawdzanie czy dany plik istnieje (K)
-7. ---Jak odnaleźć się w systemie---
-8. Odczyt plików
-9. Zapis plików
-10. Zwracanie śceżki dostępu (K)
-11. Ilość wolnego miejsca (K)
+7. Odczyt plików
+8. Zapis plików
+9. Zwracanie śceżki dostępu (K)
+10. Ilość wolnego miejsca (K)

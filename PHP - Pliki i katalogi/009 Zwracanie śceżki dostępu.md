@@ -1,4 +1,4 @@
-# 10. Zwracanie śceżki dostępu
+# 9. Zwracanie śceżki dostępu
 
 Funkcja `dirname(/* Nazwa */)` zwraca ścieżkę pliku.
 

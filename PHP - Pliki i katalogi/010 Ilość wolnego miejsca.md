@@ -1,4 +1,4 @@
-# 11. Ilość wolnego miejsca
+# 10. Ilość wolnego miejsca
 
 Funkcja sprawdza wolną przestrzeń w folderze.
 Funkcja "disk_free_space(/* lokacja */)" w parametrze wstawiamy lokacje.
