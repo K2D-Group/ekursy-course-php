@@ -1,12 +1,12 @@
 # 2. Kasowanie katalogów
 
-#Do tworzenia katalogów używa się "rmdir(/* Nazwa katalogu */)",
-#w nawiasie przyjmmowana jest nazwa katalogu
+Do tworzenia katalogów używa się `"rmdir(/* Nazwa katalogu */)"`, w nawiasie przyjmmowana jest nazwa katalogu
 
-<?php
 
-$katalog = "katalog";
+##Przykład:
+Usuwa wybrany katalog.
 
-rmdir($katalog);
+	$katalog = "katalog";
 
-?>
+	rmdir($katalog);
+

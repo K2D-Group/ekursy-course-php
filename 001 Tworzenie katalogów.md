@@ -1,13 +1,11 @@
 # 1. Tworzenie katalogów
-#Do tworzenia katalogów używany jest "mkdir(/* nazwa katalogu */);",
-#przyjmmuje w parametrze nazwe katalogu.
+Do tworzenia katalogów używany jest `"mkdir(/* nazwa katalogu */);"`,przyjmmuje w parametrze nazwe katalogu.
 
 
-#Przykład
-<?php
+##Przykład:
+Tworzy katalog o wybranej nazwie.
 
-$katalog = "katalog";
+	$katalog = "katalog";
 
-mkdir($katalog);
+	mkdir($katalog);
 
-?>

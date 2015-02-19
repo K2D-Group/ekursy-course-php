@@ -1,11 +1,10 @@
 # 10. Zwracanie śceżki dostępu
 
-#użyta funkcja "dirname(/* Nazwa */)" zwraca ścieżkę pliku
+Funkcja `dirname(/* Nazwa */)` zwraca ścieżkę pliku.
 
+##Przykład
+Program wypiesze ścieżkę do istniejącego pliku.
 
-
-<?php
-$nazwa = "index.php";
-$sciezka = dirname($nazwa);
-echo $sciezka;
-?>
+	$nazwa = "index.php";
+	$sciezka = dirname($nazwa);
+	echo $sciezka;

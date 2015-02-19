@@ -4,12 +4,14 @@ Do sprawdzania czy podana ścieżka dostępu jest katalogiem służy funkcja `is
 
 ## Przykład 1:
 Sprawdza czy w katalogu w którym znajduje się uruchamiany skrypt znajduje się katalog o nazwie `CAT`.
+
 		if(is_dir('CAT')){
 			echo 'Podana ścieżka to katalog';
 		}
 
 ## Przykład 2:
 Sprawdza i wyświetla informacje czy ścieżka w zmiennej `$path` jest katalogiem lub plikiem.
+
         $path = '/home/adm05';
         if(is_dir($path)){
             echo 'Podana ścieżka to katalog';
