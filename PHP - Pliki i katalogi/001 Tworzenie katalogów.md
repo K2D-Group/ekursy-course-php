@@ -1,11 +1,9 @@
 # 1. Tworzenie katalogów
-Do tworzenia katalogów używany jest `mkdir(/* nazwa katalogu */);`,przyjmuje w parametrze nazwe katalogu.
-
+Do tworzenia katalogów słóży funkcja `mkdir()`, która przyjmuje jako parametr nazwe katalogu.
 
 ##Przykład:
-Tworzy katalog o wybranej nazwie.
+Program utworzy katalog o podanej nazwie.
 
 	$katalog = "katalog";
 
 	mkdir($katalog);
-
