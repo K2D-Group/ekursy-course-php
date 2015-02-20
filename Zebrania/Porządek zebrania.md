@@ -34,7 +34,7 @@ Porządek Zebrania
 		Wymagania: Kreatywność w tworzeniu strategii marketingowych, nie może być księgowym
 	- **Marketingowiec**  
 		Ilość osób: **2**  
-		Obowiązki: **reklama i wciskanie kitu**
+		Obowiązki: **reklama i wciskanie kitu, relacje z klientami**
 	- **Księgowy**  
 		Ilość osób: **1** + windykator
 		Obowiązki: **prowadzenie zaszyfrowanych ksiąg, kto co i za co**
@@ -42,10 +42,10 @@ Porządek Zebrania
 		Ilość osób: **1**  
 		Obowiązki: **trzyma kasę i jest za nią odpowiedzialny**
 	- **Specjalista ds. doboru treści**  
-		Ilość osób: **1** + copywriterzy  
+		Ilość osób: **1** + copywriterzy i trenerzy 
 		Obowiązki: **odpowiada za dobór treści kursów**
 	- **Specjalista ds. zaplecza technicznego**  
-		Ilość osób: **1** + dodatkowy webmaster (*opcja*)  
+		Ilość osób: **1** + dodatkowy 1 webmaster (*opcja*)  
 		Obowiązki: **odpowiada za działanie systemów informatycznych oraz składu publikacji**
 
 5. Przerwa w obradach
@@ -86,13 +86,16 @@ Porządek Zebrania
 		Ilość częsci z zysków do podziału: **5**  
 	- **Specjalista ds. doboru treści**  
 		Ilość częsci z zysków do podziału: **10**  
-	- **Copywriterzy**  
-		Ilość częsci z zysków do podziału, przez wszystkich współtwórców: **10**  
+	- **Copywriterzy** i **Trenerzy**  
+		Otrzymują swoją część zysków z części do podziału ustalonej w poprzednim punkcie zebrania. Konkretny podział będzie ustalany podzczas zebrania ustalającego szczegóły.
 	- **Specjalista ds. zaplecza technicznego**  
 		Ilość częsci z zysków do podziału: **10** + ewentualny dodatek poza obowiązkowy
 	- **Webmaster**  
 		Ilość częsci z zysków do podziału: **5** + ewentualny dodatek poza obowiązkowy
 
+13. Ustalenie celów oraz strategii na najbliższy czas
 
 0. Sprawy bieżące 
-0. Wolne wnioski
+0. Zgłoszenie wolnych wniosków
+0. Głosowanie
+0. Zamknięcie zebrania
