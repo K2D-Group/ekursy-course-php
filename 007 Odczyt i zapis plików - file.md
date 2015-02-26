@@ -1,3 +1,9 @@
+Title: 		Odczyt i zapis plików - file\*
+Author:		Krystian Duma
+Reviewer:	Krystian Duma
+			Karol Kosiński
+Date: 		19 Luty 2015
+
 # 7. Odczyt i zapis plików - file\*
 
 ## Odczyt
