@@ -26,35 +26,40 @@ Listowanie katalogów można dokonać na 2 sposoby:
 ### Przykład 1
 Poniższy kod wyświetli dwa pierwsze pliki oraz aktualny katalog (`.`) i katalog nadrzędny (`..`)
 
-        $uchwyt = opendir('katalog/');
-        echo 'Pierwszy plik: '.readdir($uchwyt);
-        echo 'Drugi plik: '.readdir($uchwyt);
-        echo 'Trzeci plik: '.readdir($uchwyt);
-        echo 'Czwarty plik: '.readdir($uchwyt);
-        closedir($uchwyt);
+```php
+$uchwyt = opendir('katalog/');
+echo 'Pierwszy plik: '.readdir($uchwyt);
+echo 'Drugi plik: '.readdir($uchwyt);
+echo 'Trzeci plik: '.readdir($uchwyt);
+echo 'Czwarty plik: '.readdir($uchwyt);
+closedir($uchwyt);
+```
 
 ### Przykład 2
 Poniższy kod wyświetli wszystkie pliki i katalogi znajdujące się w aktualnym katalogu 
 (folder w którym znajduje się wykonywany skrypt)
 
-        $uchwyt = opendir('');
-        while (false !== ($nazwa_pliku = readdir($uchwyt))) {
-            echo $nazwa_pliku;
-        }
-        closedir($uchwyt);
-        
+```php
+$uchwyt = opendir('');
+while (false !== ($nazwa_pliku = readdir($uchwyt))) {
+    echo $nazwa_pliku;
+}
+closedir($uchwyt);
+```   
+
 ### Przykład 3
 Poniższy kod to kod z przykładu 2 uzupełniona o kontrolę błędów
 
-        if($uchwyt = opendir('.')) {
-            while (false !== ($nazwa_pliku = readdir($uchwyt))) {
-                echo $nazwa_pliku;
-            }
-            closedir($uchwyt);
-        }else{
-            echo 'Nie można otworzyć katalogu!';
-        }
-
+```php
+if($uchwyt = opendir('.')) {
+    while (false !== ($nazwa_pliku = readdir($uchwyt))) {
+        echo $nazwa_pliku;
+    }
+    closedir($uchwyt);
+}else{
+    echo 'Nie można otworzyć katalogu!';
+}
+```
 
 ## `glob()`
 W użyciu funkcja `glob()` jest łatwiejsza niż funkcje z grupy `opendir()`.
@@ -65,16 +70,22 @@ Zwraca tablicę zawierającą listę plików.
 Poniższa funkcja zwróci listę wszystkich plików i folderów znajdujących się w aktualnym folderze 
 (folder w którym znajduje się wykonywany skrypt)
 
-        $x = glob('*');
+```php
+$x = glob('*');
+```
 
 ### Przykład 2
 Poniższa funkcja zwróci listę wszystkich plików i folderów znajdujących się w aktualnym folderze 
 których  nazwy kończą się na `.php`
 
-        $x = glob('*.php');
+```php
+$x = glob('*.php');
+```
 
 ### Przykład 3
 Poniższa funkcja zwróci listę wszystkich plików i folderów znajdujących się w w podfolderze `katalog`.  
 **Uwaga: funkcja zwraca scieżki *relatywne*. np. `katalog/plik.txt`**
 
-        $x = glob('katalog/*');
+```php
+$x = glob('katalog/*');
+```

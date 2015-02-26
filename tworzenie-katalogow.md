@@ -10,6 +10,8 @@ Do tworzenia katalogów słóży funkcja `mkdir()`, która przyjmuje jako parame
 ##Przykład:
 Program utworzy katalog o podanej nazwie.
 
-	$katalog = "katalog";
+```php
+$katalog = "katalog";
 
-	mkdir($katalog);
+mkdir($katalog);
+```

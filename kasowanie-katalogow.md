@@ -11,6 +11,8 @@ Do usuwania katalogów używana jest funkcja `rmdir()`, funkcja w nawiasie przyj
 ##Przykład:
 Po wykonaniu programu, katalog zostanie usunięty.
 
-		$katalog = "katalog";
+```php
+$katalog = "katalog";
 
-		rmdir($katalog);
+rmdir($katalog);
+```

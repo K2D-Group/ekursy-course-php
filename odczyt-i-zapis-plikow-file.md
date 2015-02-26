@@ -17,8 +17,9 @@ Odczytać można plik na 2 sposoby:
 ### Przykład 1
 W zmiennej `$zawartość` znajdzie się zawartość pliku `plik.txt`
 
-      $zawartosc = file_get_contents('plik.txt');
-
+```php
+$zawartosc = file_get_contents('plik.txt');
+```
 
 ## Zapis
 Aby zapisać coś do pliku należy użyć funkcji `file_put_contents(NAZWA_PLIKU, TREŚĆ)` - Funkcja przyjmuje jako pierwszy
