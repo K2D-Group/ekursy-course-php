@@ -1,4 +1,10 @@
-# 5. Listowanie Katalogów
+Title: 		Listowanie Katalogów 
+Author:		Krystian Duma  
+Reviewer:	Krystian Duma  
+			Karol Kosiński  
+Date: 		19 Luty 2015  
+
+# Listowanie Katalogów
 
 Listowanie katalogów można dokonać na 2 sposoby:
 

@@ -1,3 +1,9 @@
+Title: 		Zwracanie śceżki dostępu
+Author:		Karol Kosiński  
+Reviewer:	Krystian Duma  
+			Karol Kosiński  
+Date: 		19 Luty 2015  
+
 # 8. Zwracanie śceżki dostępu
 
 Funkcja `dirname(/* Nazwa */)` zwraca ścieżkę pliku.

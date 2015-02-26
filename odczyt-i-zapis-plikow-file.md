@@ -4,7 +4,7 @@ Reviewer:	Krystian Duma
 			Karol Kosiński  
 Date: 		19 Luty 2015  
 
-# 7. Odczyt i zapis plików - file\*
+# Odczyt i zapis plików - file\*
 
 ## Odczyt
 Odczytać można plik na 2 sposoby:

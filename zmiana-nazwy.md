@@ -1,4 +1,10 @@
-# 4. Zmiana nazwy
+Title: 		Zmiana nazwy  
+Author:		Krystian Duma  
+Reviewer:	Krystian Duma  
+			Karol Kosiński  
+Date: 		19 Luty 2015  
+
+# Zmiana nazwy
 
 Do zmiany nazwy lub przenoszenia katalogów i plików służy funkcja `rename(STARA_ŚCIEŻKA, NOWA_ŚCIERZKA)`.
 Funkcja zwraca prawdę (`true`) jeśli się powiedzie lub fałsz (`false`) w przypadku błędu.

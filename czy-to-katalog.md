@@ -1,4 +1,10 @@
-# 3. Czy to katalog?
+Title: 		Czy to katalog?
+Author:		Krystian Duma  
+Reviewer:	Krystian Duma  
+			Karol Kosiński  
+Date: 		19 Luty 2015  
+
+# Czy to katalog?
 
 Do sprawdzania czy podana ścieżka dostępu jest katalogiem służy funkcja `is_dir(SCIEŻKA_DOSTĘPU)` a do sprawdzania czy jest plikiem służy funkcja `is_file(SCIEŻKA_DOSTĘPU)`, obie funkcje zwracają prawdę (`true`) lub fałsz (`false`).
 
