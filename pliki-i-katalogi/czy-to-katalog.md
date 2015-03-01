@@ -2,7 +2,7 @@ Title: 		Czy to katalog?
 Author:		Krystian Duma  
 Reviewer:	Krystian Duma  
 			Karol Kosiński  
-Date: 		19 Luty 2015  
+Date: 		19-02-2015  
 
 # Czy to katalog?
 

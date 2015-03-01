@@ -2,7 +2,7 @@ Title: 		Kasowanie katalogów
 Author:		Karol Kosiński  
 Reviewer:	Krystian Duma  
 			Karol Kosiński  
-Date: 		19 Luty 2015  
+Date: 		19-02-2015  
 
 # Kasowanie katalogów
 
