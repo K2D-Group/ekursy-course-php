@@ -19,9 +19,8 @@
     - (wszystko w jednym, lub wiele plików)
 
 - Baza danych:
-    - MySQLi
-        - Łączenie do bazy
-        - dodawanie
-        - usuwanie
-        - edycja
-        - tworzenie bazy
+    - Łączenie do bazy
+    - dodawanie
+    - usuwanie
+    - edycja
+    - tworzenie bazy
