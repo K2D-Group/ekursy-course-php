@@ -18,9 +18,10 @@
     - POST a GET
     - (wszystko w jednym, lub wiele plików)
 
-Baza danych:
-    - Łączenie do bazy
-    - dodawanie
-    - usuwanie
-    - edycja
-    - tworzenie bazy
+- Baza danych:
+    - MySQLi
+        - Łączenie do bazy
+        - dodawanie
+        - usuwanie
+        - edycja
+        - tworzenie bazy
