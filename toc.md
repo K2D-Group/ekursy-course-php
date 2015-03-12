@@ -10,8 +10,17 @@
     - [Zwracanie ścieżki dostępu](pliki-i-katalogi/zwracanie-sciezki-dostepu.md)
     - [Ilość wolnego miejsca](pliki-i-katalogi/ilosc-wolnego-miejsca.md)
     
-    
-    
-Formularze: przyciski(radio, input itd.), pobieranie danych, POST a GET, (wszystko w jednym, lub wiele plików), 
 
-Baza danych: Łączenie do bazy, dodawanie, usuwanie, edycja, tworzenie bazy.
+    
+- Formularze
+    - przyciski(radio, input itd.)
+    - pobieranie danych
+    - POST a GET
+    - (wszystko w jednym, lub wiele plików)
+
+Baza danych:
+    - Łączenie do bazy
+    - dodawanie
+    - usuwanie
+    - edycja
+    - tworzenie bazy
