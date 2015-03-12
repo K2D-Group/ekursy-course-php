@@ -1,68 +1,41 @@
 - Porządek zebrania został: PRZYJĘTY.
 - Zebranie zostało otwarte.
 - Lista Obecności:
-	- Karol Kośiński: NIE-OBECNY
-	- Krystian Duma: NIE-OBECNY
-	- Grzegorz Daniszewski: NIE-OBECNY
+	- Karol Kośiński: OBECNY
+	- Krystian Duma: OBECNY
+	- Grzegorz Daniszewski: NIEOBECNY
 - Większość bezwzględna wynosi: 2 głosy
 - Zgłoszone zostały następujące kandydatury na stanowiska
     - Prezes: Karol
     - Przewodniczący zarządu: Krystian
     - Główny handlowiec: Karol
     - Zwykły handlowiec: Grzesiek
-    - Marketingowiec: Karol, Grzesiek
+    - Marketingowiec: Karol
     - Księgowy: Krystian
     - Windykator: Grzesiek
-    - Skarbnik: Grzesiek
+    - Skarbnik: Krystian
     - Specjalista ds. doboru treści: Karol
     - Copywriterzy: Krystian, Karol, Grześiek
     - Specjalista ds. zaplecza technicznego: Krystian
     - Webmaster: Karol
 - PRZERWA W OBRADACH NA WYPEŁNIENIE WNIOSKÓW
-- W Głosowaniu na poszczególne kandydatury zostały wybrane osoby na poniższe stanowiska:
-    - Prezes: 
-    - Przewodniczący zarządu: 
-    - Główny handlowiec: 
-    - Zwykły handlowiec: 
-    - Marketingowiec: 
-    - Księgowy: 
-    - Windykator: 
-    - Skarbnik: 
-    - Specjalista ds. doboru treści: 
-    - Copywriterzy: 
-    - Specjalista ds. zaplecza technicznego: 
-    - Webmaster: 
-- W głosowaniu na logo zostały rozpatrzone następujące propozycje:
-    - przygotowane przez karola logo w 1 wersji zostało: PRZYJĘTE / ODRZUCONE
-- W głosowaniu na logo zostały rozpatrzone następujące propozycje:
-    - ekursy.ml: ODRZUCONA / PRZYJĘTA
-    - ekursy.cf: ODRZUCONA / PRZYJĘTA
-    - ekursy.ga: ODRZUCONA / PRZYJĘTA
-    - ekursy.tk: ODRZUCONA / PRZYJĘTA
-    - ekurs.cf: ODRZUCONA / PRZYJĘTA
-- Zostały ustalone następujące funkcjonalnośći na stronie:
-    - Dostęp do kursów za hasłem
-- Został ustalony wkład początkowy o wysokości 12 zł za osobę.
+- Został ustalony wkład początkowy o wysokości 72 zł za osobę.
 - Forma wkładu początkowego wniesionego przez następujące osoby jest następująca:
-	- Karol Kośiński: 
-	- Krystian Duma: Hosting (12 zł/mc)
-	- Grzegorz Daniszewski: 
+	- Karol Kośiński: Hosting (72 zł)
+	- Krystian Duma: Hosting (72 zł)
+	- Grzegorz Daniszewski: DO USTALENIA
 - Został ustalony następujący podział zysków między spółkę, zarząd a twórców:
-    - Do budżetu spółki trafia: 50%
+    - Do budżetu spółki trafia: 20%
     - Dla autorów sprzedanego kursu trafia (w przypadku kursów): 10%
     - Dla trenerów wykonanego szkolenia trafia (w przypadku szkoleń): 20%
-    - Pozostała część trafia do podziału między zarząd (tj. 30-50%)
+    - Pozostała część trafia do podziału między zarząd
 - Został ustalony następujący podział zysków między zarząd:
-    - Karol Kosiński za swoje stanowiska otrzymuje XX części czyli XX%
-    - Krystian Duma za swoje stanowiska otrzymuje XX części czyli XX%
-    - Grzegorz Daniszewski za swoje stanowiska otrzymuje XX części czyli XX%
+    - Karol Kosiński za swoje stanowiska otrzymuje 49.7%
+    - Krystian Duma za swoje stanowiska otrzymuje 49.4%
+    - Grzegorz Daniszewski za swoje stanowiska otrzymuje 0.9%
 - Została ustalona strategia na najbliższy czas oraz zostały postawione następujące cele:
-    - CEL - oczekiwana data zakończenia: XX-XX-2015
-    - CEL - oczekiwana data zakończenia: XX-XX-2015
-    - CEL - oczekiwana data zakończenia: XX-XX-2015
+    - Strona WWW - oczekiwana data zakończenia: 09-04-2015
+    - Logo - oczekiwana data zakończenia: 09-04-2015
+    - Kurs PHP i Bazy Danych - oczekiwana data zakończenia: 18-03-2015
 - Zostały omówione sprawy bierzące
-- Zostału zgłoszone następujące wnioski oraz zostało przeprowadzone głosowanie
-    - WNIOSEK: ODRZUCONY / PRZYJĘTY
-    - WNIOSEK: ODRZUCONY / PRZYJĘTY
-    - WNIOSEK: ODRZUCONY / PRZYJĘTY
 - Zebranie zostało zamknięte
