@@ -9,18 +9,22 @@
     - [Pliki - funkcje f\*](pliki-i-katalogi/odczyt-i-zapis-plikow-f.md)
     - [Zwracanie ścieżki dostępu](pliki-i-katalogi/zwracanie-sciezki-dostepu.md)
     - [Ilość wolnego miejsca](pliki-i-katalogi/ilosc-wolnego-miejsca.md)
-    
 
-    
 - Formularze
     - przyciski(radio, input itd.)
     - pobieranie danych
     - POST a GET
     - (wszystko w jednym, lub wiele plików)
 
-- Baza danych:
-    - Łączenie do bazy
-    - dodawanie
-    - usuwanie
-    - edycja
-    - tworzenie bazy
+
+- SQL
+    - Tworzenie tabel
+    - Wybieranie danych
+    - Dodawanie danych
+    - Aktualizowanie danych
+    - Kasowanie danych
+
+- Baza danych
+    - [Łączenie się z bazą](bazy-danych/laczenie.md)
+    - [Kwerendy Wybierające](bazy-danych/kwerendy-wybierajace.md)
+    - [Kwerendy Modyfikujące](bazy-danych/kwerendy-modyfikujace.md)
