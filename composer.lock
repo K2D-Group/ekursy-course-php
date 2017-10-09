@@ -1,24 +1,27 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f066d5f3c63850e4127b3623f40692ce",
+    "content-hash": "09b03b38edf3e431fe9741e59887f19f",
     "packages": [
         {
             "name": "erusev/parsedown",
-            "version": "1.5.1",
+            "version": "1.6.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown.git",
-                "reference": "9da19c1108c39df9b42adc42e39b8371070652d0"
+                "reference": "728952b90a333b5c6f77f06ea9422b94b585878d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/9da19c1108c39df9b42adc42e39b8371070652d0",
-                "reference": "9da19c1108c39df9b42adc42e39b8371070652d0",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/728952b90a333b5c6f77f06ea9422b94b585878d",
+                "reference": "728952b90a333b5c6f77f06ea9422b94b585878d",
                 "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
             },
             "type": "library",
             "autoload": {
@@ -43,19 +46,19 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2015-01-24 13:01:47"
+            "time": "2017-05-14T14:47:48+00:00"
         },
         {
             "name": "mpdf/mpdf",
             "version": "v6.0-beta",
             "source": {
                 "type": "git",
-                "url": "https://github.com/finwe/mpdf.git",
+                "url": "https://github.com/mpdf/mpdf.git",
                 "reference": "d2f16f67a9b397142beacbe96098bdffbb39ccd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/finwe/mpdf/zipball/d2f16f67a9b397142beacbe96098bdffbb39ccd1",
+                "url": "https://api.github.com/repos/mpdf/mpdf/zipball/d2f16f67a9b397142beacbe96098bdffbb39ccd1",
                 "reference": "d2f16f67a9b397142beacbe96098bdffbb39ccd1",
                 "shasum": ""
             },
@@ -86,7 +89,7 @@
                 "php",
                 "utf-8"
             ],
-            "time": "2014-01-07 11:55:40"
+            "time": "2014-01-07T11:55:40+00:00"
         }
     ],
     "packages-dev": [],
